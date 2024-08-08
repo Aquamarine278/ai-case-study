@@ -35,7 +35,9 @@ Bootcamp Module 1 Challenge
 
 **Intended Customer and Market Size:**
 
-OpenAI's intended customers are varied and include individual developers, businesses, and organizations looking to leverage advanced AI technologies. This includes sectors like tech, healthcare, finance, and more. The market size for AI and machine learning is substantial and growing rapidly. For example, the global AI market was valued at approximately $136 billion in 2022 and is projected to grow significantly over the coming years, reflecting the widespread interest and investment in AI technologies.
+OpenAI's intended customers are varied and include individual developers, businesses, and organizations looking to leverage advanced AI technologies. This includes sectors like tech, healthcare, finance, and more. The market size for AI and machine learning is substantial and growing rapidly as the [global AI market](https://www.fortunebusinessinsights.com/industry-reports/artificial-intelligence-market-100114) is projected to grow from USD 621.19 billion in 2024 to USD 2,740.46 billion by 2032, exhibiting a CAGR of 20.4% during the forecast period.
+
+Source: https://www.fortunebusinessinsights.com/industry-reports/artificial-intelligence-market-100114
 
 **Unique Solution and Unfair Advantage:**
 
