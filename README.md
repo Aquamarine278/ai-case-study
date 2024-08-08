@@ -2,7 +2,7 @@
 Bootcamp Module 1 Challenge 
 # OpenAI
 
-## Overview and Origin
+## 🌱Overview and Origin
 ![OpenAI logo](https://miro.medium.com/v2/resize:fit:1104/1*Ni6xzW9GJY9PFxkwT75kog.png)
 ### OpenAI: 
 > **OpenAI is a company in the artificial intelligence (AI) research and deployment field**
@@ -28,7 +28,7 @@ Bootcamp Module 1 Challenge
 
   For a more detailed timeline refer to [A Timeline of OpenAI’s Technology, Funding, and History](https://medium.com/@DiscoverLevine/a-timeline-of-openais-technology-funding-and-history-c91cbc071a85)
 
-## Business Activities
+🗠## Business Activities
 
 **OpenAI's Mission:**
 > "OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity."
@@ -37,7 +37,6 @@ Bootcamp Module 1 Challenge
 
 OpenAI's intended customers are varied and include individual developers, businesses, and organizations looking to leverage advanced AI technologies. This includes sectors like tech, healthcare, finance, and more. The market size for AI and machine learning is substantial and growing rapidly as the [global AI market](https://www.fortunebusinessinsights.com/industry-reports/artificial-intelligence-market-100114) is projected to grow from USD 621.19 billion in 2024 to USD 2,740.46 billion by 2032, exhibiting a CAGR of 20.4% during the forecast period.
 
-Source: https://www.fortunebusinessinsights.com/industry-reports/artificial-intelligence-market-100114
 
 **Unique Solution and Unfair Advantage:**
 
@@ -48,7 +47,7 @@ OpenAI's unique solution lies in its advanced AI models, such as GPT-4 and its s
 OpenAI employs a range of technologies for developing their AI models. This includes advanced machine learning techniques such as transformer architectures (e.g., GPT models), large-scale distributed computing, and reinforcement learning. They use substantial computational resources for training their models, often involving GPUs and specialized hardware. They also leverage cloud infrastructure to deploy their models via APIs, making their technology accessible to a broad audience.
 
 
-## Landscape
+## 🏞️Landscape
 
 ### Major Trends and Innovations in AI (Last 5-10 Years)
 
@@ -76,6 +75,9 @@ OpenAI employs a range of technologies for developing their AI models. This incl
    - **Development**: AI systems that can generate new data similar to the training data, such as images, text, and music.
    - **Models**: Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs).
 
+History of AI development shows decades of steady advances as training computation has increased, you can read more about it [here](https://www.weforum.org/agenda/2022/12/how-ai-developed-whats-next-digital-transformation/) .
+
+
 ### Major Companies in the AI Field
 
 - **Google AI / DeepMind**: Known for advancements in deep learning, reinforcement learning, and AI ethics.
@@ -90,7 +92,9 @@ OpenAI employs a range of technologies for developing their AI models. This incl
 
 
 
-## Results
+
+
+## 🎯Results
 
 ### Business Impact of OpenAI
 
@@ -143,7 +147,7 @@ OpenAI employs a range of technologies for developing their AI models. This incl
 
 Overall, OpenAI is performing strongly across multiple metrics and holds a competitive position in the AI field.
 
-## Recommendations
+## 💡Recommendations
 
 #### AI-Powered Healthcare Diagnostics Platform
 
@@ -162,6 +166,7 @@ Overall, OpenAI is performing strongly across multiple metrics and holds a compe
 
 
 ## Sources
+[About | OpenAI](https://openai.com/about/)
 
 [A Timeline of OpenAI’s Technology, Funding, and History](https://medium.com/@DiscoverLevine/a-timeline-of-openais-technology-funding-and-history-c91cbc071a85)
 
@@ -171,6 +176,12 @@ Overall, OpenAI is performing strongly across multiple metrics and holds a compe
 
 [Forbes 2024 AI 50 List - Top Artificial intelligence Startups](https://www.forbes.com/lists/ai50/)
 
+[The History of AI systems and how they might look in the future|World Economic Forum](https://www.weforum.org/agenda/2022/12/how-ai-developed-whats-next-digital-transformation/)
+
+[Four trends that changed AI in 2023](https://www.technologyreview.com/2023/12/19/1085696/four-trends-that-changed-ai-in-2023/)
+
 [ChatGPT-assisted diagnosis: Is the future suddenly here?](https://www.statnews.com/2023/02/13/chatgpt-assisted-diagnosis/)
 
 [Measuring Success: Key Metrics and KPIs for AI Initiatives](https://chooseacacia.com/measuring-success-key-metrics-and-kpis-for-ai-initiatives/)
+
+[Artificial Intelligence (AI) Market Size, Share & Industry Analysis, By Component (Hardware, Software/Platform, and Services), By Function (Human Resources, Marketing & Sales, Product/Service Deployment, Service Operation, Risk, Supply-Chain Management, and Others (Strategy and Corporate Finance)), By Deployment (Cloud and On-premises), By Industry (Healthcare, Retail, IT & Telecom, BFSI, Automotive, Advertising & Media, Manufacturing, and Others), and Regional Forecast, 2024-2032](https://www.fortunebusinessinsights.com/industry-reports/artificial-intelligence-market-100114)
