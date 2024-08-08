@@ -28,7 +28,7 @@ Bootcamp Module 1 Challenge
 
   For a more detailed timeline refer to [A Timeline of OpenAI’s Technology, Funding, and History](https://medium.com/@DiscoverLevine/a-timeline-of-openais-technology-funding-and-history-c91cbc071a85)
 
-🗠## Business Activities
+## 🗠Business Activities
 
 **OpenAI's Mission:**
 > "OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity."
