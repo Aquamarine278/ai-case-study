@@ -169,6 +169,8 @@ Overall, OpenAI is performing strongly across multiple metrics and holds a compe
 ## Sources
 [About | OpenAI](https://openai.com/about/)
 
+[What Is OpenAI Everything You Need to Know](https://www.rapidinnovation.io/post/what-is-openai-everything-you-need-to-know#8-in-depth-explanations-of-openai-technologies)
+
 [A Timeline of OpenAI’s Technology, Funding, and History](https://medium.com/@DiscoverLevine/a-timeline-of-openais-technology-funding-and-history-c91cbc071a85)
 
 [Introducing improvements to the fine-tuning API and expanding our custom models program | OpenAI](https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program/)
